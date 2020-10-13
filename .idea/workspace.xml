@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c4bc6599-40b4-4046-a1ba-a8da1842cb40" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/theme/said/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/said/lang/eng/theme_said.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme/said/lang/en/theme_said.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/theme/said/lib.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/theme/said/pix/favicon.ico" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/theme/said/pix/screenshot.jpg" afterDir="false" />
@@ -41,7 +41,7 @@
     <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/theme/temasaid/pix" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/theme/said/pix" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -51,6 +51,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/theme/said/pix" />
       <recent name="$PROJECT_DIR$/theme/temasaid/pix" />
     </key>
   </component>
@@ -64,7 +65,7 @@
       <updated>1602469693197</updated>
       <workItem from="1602469698785" duration="1078000" />
       <workItem from="1602480890021" duration="960000" />
-      <workItem from="1602570133966" duration="4059000" />
+      <workItem from="1602570133966" duration="6132000" />
     </task>
     <servers />
   </component>
@@ -83,10 +84,10 @@
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state width="257" height="520" key="HiddenNamespacesPopup/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602570728541" />
-    <state x="756" y="482" width="407" height="154" key="NewPhpFileDialog" timestamp="1602574110739">
+    <state x="756" y="482" width="407" height="154" key="NewPhpFileDialog" timestamp="1602581139762">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state x="756" y="482" width="407" height="154" key="NewPhpFileDialog/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602574110739" />
+    <state x="756" y="482" width="407" height="154" key="NewPhpFileDialog/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602581139762" />
     <state x="449" y="193" width="1022" height="733" key="SettingsEditor" timestamp="1602572234423">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
