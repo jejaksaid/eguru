@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4bc6599-40b4-4046-a1ba-a8da1842cb40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/theme/said/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/said/lang/en/theme_said.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/said/lib.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/said/pix/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/said/pix/screenshot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/said/version.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme/said/scss/post.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme/said/scss/pre.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme/said/settings.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme/eguru/lang/en/theme_eguru.php" beforeDir="false" afterPath="$PROJECT_DIR$/theme/eguru/lang/en/theme_eguru.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme/said/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/theme/said/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme/said/lang/en/theme_said.php" beforeDir="false" afterPath="$PROJECT_DIR$/theme/said/lang/en/theme_said.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme/said/lib.php" beforeDir="false" afterPath="$PROJECT_DIR$/theme/said/lib.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +44,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/theme/said/pix" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -65,7 +69,7 @@
       <updated>1602469693197</updated>
       <workItem from="1602469698785" duration="1078000" />
       <workItem from="1602480890021" duration="960000" />
-      <workItem from="1602570133966" duration="6132000" />
+      <workItem from="1602570133966" duration="11139000" />
     </task>
     <servers />
   </component>
@@ -80,14 +84,30 @@
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state x="555" y="219" width="989" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602572138888" />
+    <state width="1874" height="277" key="GridCell.Tab.0.bottom" timestamp="1602582915750">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.bottom/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602582915750" />
+    <state width="1874" height="277" key="GridCell.Tab.0.center" timestamp="1602582915750">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.center/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602582915750" />
+    <state width="1874" height="277" key="GridCell.Tab.0.left" timestamp="1602582915749">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.left/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602582915749" />
+    <state width="1874" height="277" key="GridCell.Tab.0.right" timestamp="1602582915750">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.right/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602582915750" />
     <state width="257" height="520" key="HiddenNamespacesPopup" timestamp="1602570728541">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state width="257" height="520" key="HiddenNamespacesPopup/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602570728541" />
-    <state x="756" y="482" width="407" height="154" key="NewPhpFileDialog" timestamp="1602581139762">
+    <state x="756" y="482" width="407" height="154" key="NewPhpFileDialog" timestamp="1602582526318">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state x="756" y="482" width="407" height="154" key="NewPhpFileDialog/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602581139762" />
+    <state x="756" y="482" width="407" height="154" key="NewPhpFileDialog/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602582526318" />
     <state x="449" y="193" width="1022" height="733" key="SettingsEditor" timestamp="1602572234423">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
