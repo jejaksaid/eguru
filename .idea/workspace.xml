@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c4bc6599-40b4-4046-a1ba-a8da1842cb40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/eguru.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme/said/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme/said/lang/eng/theme_said.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme/said/lib.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme/said/pix/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme/said/pix/screenshot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme/said/version.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectId" id="1il6AHMovkmhVHRwVEV1vWdo9Rf" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -30,14 +38,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/theme/temasaid/pix" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/theme/temasaid/pix" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -49,6 +64,7 @@
       <updated>1602469693197</updated>
       <workItem from="1602469698785" duration="1078000" />
       <workItem from="1602480890021" duration="960000" />
+      <workItem from="1602570133966" duration="4059000" />
     </task>
     <servers />
   </component>
@@ -59,13 +75,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="555" y="219" width="810" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602481798529">
+    <state x="555" y="219" width="989" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602572138888">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state x="555" y="219" width="810" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602481798529" />
-    <state width="257" height="520" key="HiddenNamespacesPopup" timestamp="1602481574951">
+    <state x="555" y="219" width="989" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602572138888" />
+    <state width="257" height="520" key="HiddenNamespacesPopup" timestamp="1602570728541">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="257" height="520" key="HiddenNamespacesPopup/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602481574951" />
+    <state width="257" height="520" key="HiddenNamespacesPopup/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602570728541" />
+    <state x="756" y="482" width="407" height="154" key="NewPhpFileDialog" timestamp="1602574110739">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="756" y="482" width="407" height="154" key="NewPhpFileDialog/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602574110739" />
+    <state x="449" y="193" width="1022" height="733" key="SettingsEditor" timestamp="1602572234423">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="449" y="193" width="1022" height="733" key="SettingsEditor/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602572234423" />
+    <state x="647" y="112" width="626" height="891" key="find.popup" timestamp="1602573470302">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="647" y="112" width="626" height="891" key="find.popup/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602573470302" />
   </component>
 </project>
