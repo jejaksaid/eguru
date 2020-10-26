@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4bc6599-40b4-4046-a1ba-a8da1842cb40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/theme/said/scss/post.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/said/scss/pre.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/said/settings.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/theme/eguru/lang/en/theme_eguru.php" beforeDir="false" afterPath="$PROJECT_DIR$/theme/eguru/lang/en/theme_eguru.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/said/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/theme/said/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/said/lang/en/theme_said.php" beforeDir="false" afterPath="$PROJECT_DIR$/theme/said/lang/en/theme_said.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/said/lib.php" beforeDir="false" afterPath="$PROJECT_DIR$/theme/said/lib.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +64,7 @@
       <workItem from="1602469698785" duration="1078000" />
       <workItem from="1602480890021" duration="960000" />
       <workItem from="1602570133966" duration="11139000" />
+      <workItem from="1603715677532" duration="4314000" />
     </task>
     <servers />
   </component>
@@ -80,6 +75,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="580" y="445" width="760" height="229" key="#Stylelint" timestamp="1603719676838">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="580" y="445" width="760" height="229" key="#Stylelint/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1603719676838" />
     <state x="555" y="219" width="989" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602572138888">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
@@ -112,9 +111,9 @@
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state x="449" y="193" width="1022" height="733" key="SettingsEditor/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602572234423" />
-    <state x="647" y="112" width="626" height="891" key="find.popup" timestamp="1602573470302">
+    <state x="647" y="112" width="626" height="891" key="find.popup" timestamp="1603720252564">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state x="647" y="112" width="626" height="891" key="find.popup/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1602573470302" />
+    <state x="647" y="112" width="626" height="891" key="find.popup/0.31.1920.1049/1920.0.1366.768@0.31.1920.1049" timestamp="1603720252564" />
   </component>
 </project>
