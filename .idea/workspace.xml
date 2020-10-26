@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c4bc6599-40b4-4046-a1ba-a8da1842cb40" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/eguru/lang/en/theme_eguru.php" beforeDir="false" afterPath="$PROJECT_DIR$/theme/eguru/lang/en/theme_eguru.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme/said/scss/pre.scss" beforeDir="false" afterPath="$PROJECT_DIR$/theme/said/scss/pre.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +65,7 @@
       <workItem from="1602480890021" duration="960000" />
       <workItem from="1602570133966" duration="11139000" />
       <workItem from="1603715677532" duration="5938000" />
+      <workItem from="1603722071914" duration="435000" />
     </task>
     <servers />
   </component>
